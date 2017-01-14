@@ -68,6 +68,13 @@
                 "portable-net45+win8+dnxcore50",
                 "portable-net45+win8"
             ]
+        },
+        "Microsoft.DotNet.Watcher.Tools": {
+            "version": "1.1.0-*",
+            "imports": [
+                "portable-net45+win8+dnxcore50",
+                "portable-net45+win8"
+            ]
         }
     },
 
@@ -108,6 +115,6 @@
     },
 
     "tooling": {
-        "defaultNamespace": "WebApplication"
+        "defaultNamespace": "WebApplication",
     }
 }
