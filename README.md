@@ -22,7 +22,7 @@ dotnet run
 ```
 or Watch and run so that the server is compiled 
 ```
-dotnet watch run
+dotnet run watch
 ```
 
 # How to Debug in VSCode
